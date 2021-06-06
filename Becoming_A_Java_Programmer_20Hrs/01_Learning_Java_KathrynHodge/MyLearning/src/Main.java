@@ -2,35 +2,29 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static void calcTotalMealPrice(double listedMealPrice,
+                                          double tipRate,
+                                          double taxRate) {
+        double tip = tipRate * listedMealPrice;
+        double tax = taxRate * listedMealPrice;
+        double result = listedMealPrice + tip + tax;
+        System.out.println("Your total meal price is " + result);
+    }
+
     public static void main(String[] args) {
-       String question = "What is your favorite color?";
-       String choiceOne = "Red";
-       String choiceTwo = "Brown";
-       String choiceThree = "Yellow";
+        System.out.println("How much did was the meal?");
+        Scanner getX = new Scanner(System.in);
+        double x = getX.nextDouble();
 
-//        Write a print statement asking the question
-//        Write a print statement giving the answer choices
-        System.out.println(question);
-        System.out.println("Choose either: " + choiceOne + ", " + choiceTwo + ", or " + choiceThree);
+        System.out.println("What percent do you tip?");
+        Scanner getY = new Scanner(System.in);
+        double y = getY.nextDouble();
 
-//        Have the user input an answer
-//        Retrieve the user's input
-        Scanner getChoice = new Scanner(System.in);
-        String usersChoice = getChoice.nextLine();
+        System.out.println("How much is the meal taxed?");
+        Scanner getZ = new Scanner(System.in);
+        double z = getZ.nextDouble();
 
-//        If the user's input matches the correctAnswer...
-//        Then the user is correct and we want to print out the congrats
-
-//        If the user's input does not match the correctAnswer...
-//        then the user is incorrect and we want to print out a msg that says so
-
-        if (usersChoice.equals(choiceTwo.toLowerCase())) {
-            System.out.println("Correct");
-        } else {
-            System.out.println("NOT correct");
-        }
-
-
+        calcTotalMealPrice(x, y, z);
 
     }
 }
