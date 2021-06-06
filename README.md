@@ -1,5 +1,14 @@
 # Learning Java
 
+
+### 2021 06 06 : 0830 || LL 01 IDE
+Learning about the IDE (InteliJ).  Noticing that it runs slow on my current MacBook 13 inch (2013).  Java has two different data types: Primitive (Boolean, int, double, char) and Reference Types.  Also review strings, concatenation, and input/outputs.  Next we look at logic decisions.  Things like “Control Flow.” To test this, we did a Fortune Teller Flow Control program.  
+
+Relational Operators: >, <, ==, , >=, <=, !=
+
+-----------------------------------------------------------------------------
+
+
 ## LL 01 Learning Java
 
 ### 2021 06 05 : 2200 || LL 01
