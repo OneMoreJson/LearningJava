@@ -6,6 +6,9 @@ Learning about the IDE (InteliJ).  Noticing that it runs slow on my current MacB
 
 Relational Operators: >, <, ==, , >=, <=, !=
 
+#### 1400 || LL 01 Java
+Completed debugging and Functions.  Found out that you can change an input into a double by using the .nextDoube() notation.  That changed my Scanner result into a double to be used for math.  Not bad!
+
 -----------------------------------------------------------------------------
 
 
