@@ -1,5 +1,16 @@
 # Learning Java
 
+### 2021 06 09 : 2000 || LL O1 Class Instances
+
+Went over creating instances from classes using a triangle class.  This is just a simple view of everthing.  A lot of things are different when compared to Python.  I really do think that Python is more simple.  However, I like how Java can be compiled into machine code.  That lets it be used on MANY more types of devices.  I am having a little difficulty following.  I do think the problem is on me.  The instructor is actually great at mixing the tone and pitch of delivery.  I just need to watch some more and run through a lot more examples.  
+
+Here is a Summary:
+Class help organize our code; they contain attributes (also referred to as properties) and behavior (also referred to as methods).  Every class contains a constructor that can create instances.  The Class is a blueprint while the constructor builds instances from the blueprint.  
+
+Finished LL 01
+
+-----------------------------------------------------------------------------
+
 ### 2021 06 08 : 1840 || LL 01 Class
 
 The constructor may or may not take inputs.  A constructor always returns an instance of the class it’s in (that is, a constructor in the Triangle class returns a triangle) … because the lesson is talking about a class that creates triangles… What I’m winding is: Is an “instance” the same as and “object?”  This instruction seems to use words that are not consistent with what they saying… that or they interchange words that have different and same meanings!  Ok, objects come from class.  Actually I’ve learned about classes and objects. However, Java really does some unique thing that works similar, yet very different.  For one… a class created is actually now considered as a data type.  That is very different from what I am familiar with.  Although I don’t think it is divergent… it is not something other languages revealed as a concept.  More learning and comparisons will need to be made.  
