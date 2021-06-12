@@ -1,5 +1,17 @@
 # Learning Java
 
+## LL 02 Java 11+ Essential Training
+
+### 2021 06 10 0800 || LL 02 Intro
+
+First there is a package.  Then there is the class (public class Main).  Then there is a main method.  The parentheses defined parameters.  In the curly braces you have the main code.  JSHell allows you to test java code inside the terminal.  Java is also case sensitive.  Java is not white space sensitive (unlike python).  The end of your code, you must end with semicolon.  There is more about syntax and memory management.  Something we don’t talk about in other languages so far.  
+
+The following helps you manage your memory use.  
+Runtime.maxMemory()
+Runtime.totalMemor() 
+
+-----------------------------------------------------------------------------
+
 ### 2021 06 09 : 2000 || LL O1 Class Instances
 
 Went over creating instances from classes using a triangle class.  This is just a simple view of everthing.  A lot of things are different when compared to Python.  I really do think that Python is more simple.  However, I like how Java can be compiled into machine code.  That lets it be used on MANY more types of devices.  I am having a little difficulty following.  I do think the problem is on me.  The instructor is actually great at mixing the tone and pitch of delivery.  I just need to watch some more and run through a lot more examples.  
@@ -27,6 +39,7 @@ An instance is an object created from a class blueprint.  So, ACCarrier c  lass 
 -----------------------------------------------------------------------------
 
 ### 2021 06 06 : 0830 || LL 01 IDE
+
 Learning about the IDE (InteliJ).  Noticing that it runs slow on my current MacBook 13 inch (2013).  Java has two different data types: Primitive (Boolean, int, double, char) and Reference Types.  Also review strings, concatenation, and input/outputs.  Next we look at logic decisions.  Things like “Control Flow.” To test this, we did a Fortune Teller Flow Control program.  
 
 Relational Operators: >, <, ==, , >=, <=, !=
