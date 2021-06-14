@@ -1,5 +1,24 @@
 # Learning Java
 
+### 2021 06 13 1600 || LL 02 Intro and Prep 
+
+Set up files and journal.  Also, jshell is a very powerful tool.  Remember the following commands as they might help:
+
+jshell (in the terminal)
+/list
+/save filename.java
+/open filename.java
+/reset
+/help
+/exit
+
+Note: you always want to compile from the source directory (src) when you are working in the terminal.  This is done by “javac com/company/main.java” in the terminal.  Also “sout" is a shortcut for “System.out.println(“”);”  This is extremely useful!!!!
+
+#### 1700 || strings and data
+So much more!!!
+
+-----------------------------------------------------------------------------
+
 ## LL 02 Java 11+ Essential Training
 
 ### 2021 06 10 0800 || LL 02 Intro
