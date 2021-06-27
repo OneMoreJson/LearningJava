@@ -1,6 +1,6 @@
 # Learning Java
 
-### 2021 06 27 1000 || LL 02 Exception Handling
+### 2021 06 27 1000 || LL 02 Completion
 
 How to debug and complete exception handling.  Create Custom Classes. Work with inheritance (Polymorphism).  Manage Data Collections. 
 
