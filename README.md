@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 06 26 0900 || LL 02 
+
+Worked through string, numbers and combining everything
+
+-----------------------------------------------------------------------------
+
 ### 2021 06 13 1600 || LL 02 Intro and Prep 
 
 Set up files and journal.  Also, jshell is a very powerful tool.  Remember the following commands as they might help:
