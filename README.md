@@ -1,5 +1,17 @@
 # Learning Java
 
+### 2021 06 27 1000 || LL 02 Completion
+
+How to debug and complete exception handling.  Create Custom Classes. Work with inheritance (Polymorphism).  Manage Data Collections. 
+
+-----------------------------------------------------------------------------
+
+### 2021 06 26 0900 || LL 02 
+
+Worked through string, numbers and combining everything.  Here are the chapters: Manage String Values & Manage Program Flow.
+
+-----------------------------------------------------------------------------
+
 ### 2021 06 13 1600 || LL 02 Intro and Prep 
 
 Set up files and journal.  Also, jshell is a very powerful tool.  Remember the following commands as they might help:
