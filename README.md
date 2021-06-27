@@ -2,7 +2,7 @@
 
 ### 2021 06 26 0900 || LL 02 
 
-Worked through string, numbers and combining everything
+Worked through string, numbers and combining everything.  Here are the chapters: Manage String Values & Manage Program Flow.
 
 -----------------------------------------------------------------------------
 
