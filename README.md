@@ -6,6 +6,10 @@
 
 1. Install Java and IDE (Eclipse and Swing),  2. Java Basic Review, Create a User Interface with Swing, 4. Tables and Data Source, 5. Distribution and Deployment, 6. Server—Side Java: JSP, 7. Android Dev
 
+### 2021 06 28 1300 || Downloads
+
+Download Eclipse, WindowBuilder (Swing), JEE Server Stuff
+
 -----------------------------------------------------------------------------
 
 ### 2021 06 27 1000 || LL 02 Completion
