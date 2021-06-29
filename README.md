@@ -1,14 +1,24 @@
 # Learning Java
 
+## LL 04 Java Memory Management
+
+### 2021 06 28 1000 || LL 04 
+
+1. How memory works in Java, 2. Values and References, 3. Escaping References and 4. Intro to Garbage Collection…
+
+-----------------------------------------------------------------------------
+
 ## LL 03 Learning Java Applications
 
 ### 2021 06 28 0730 || LL 03 Cont
 
 1. Install Java and IDE (Eclipse and Swing),  2. Java Basic Review, Create a User Interface with Swing, 4. Tables and Data Source, 5. Distribution and Deployment, 6. Server—Side Java: JSP, 7. Android Dev
 
-### 2021 06 28 1300 || Downloads
+#### 1300 || Downloads
 
-Download Eclipse, WindowBuilder (Swing), JEE Server Stuff
+Download Eclipse, WindowBuilder (Swing), JEE Server Stuff, Android Studio
+
+#### 1300 || Rewatch and Do
 
 -----------------------------------------------------------------------------
 
