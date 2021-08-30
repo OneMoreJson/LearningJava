@@ -1,5 +1,13 @@
 # Learning Java
 
+## Coursework
+
+## 2021 08 30 || OOP Java Course
+
+Completed Several College Courses. Although I am still learning, it might be time to post some that work. The instructors provide good feedback. However, I think I will learn even more when those within the community review and communicate their own experience in these projects. With that... and with some trepidation (^^), here we go... 
+
+-----------------------------------------------------------------------------
+
 ## Admin
 
 ### 2021 07 13 1600 || Admin
