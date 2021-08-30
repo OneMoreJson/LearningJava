@@ -1,5 +1,13 @@
 # Learning Java
 
+## Admin
+
+### 2021 07 13 1600 || Admin
+
+Updating all files onto a new computer
+
+-----------------------------------------------------------------------------
+
 ## LL 04 Java Memory Management
 
 ### 2021 06 28 1000 || LL 04 
