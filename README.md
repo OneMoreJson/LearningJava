@@ -2,6 +2,22 @@
 
 ## Coursework
 
+## Admin
+
+### 2021 08 31 1300 || Clean
+
+Clean up folders and deleted items not needed in GH.  I might want to clean folders and leave a report on what each course taught and if I think it was worth taking it.  I can’t have 1000s of MB files all showing “hello world” just because each class explains how to write the program using a different stack.  
+
+-----------------------------------------------------------------------------
+
+## LL 04 Java Memory Management
+
+### 2021 08 28 1200 || LL 04 Return
+
+Returning to the Linkedin Learning course on Java Memory Management.  I have been working on a Udemy course while completing my OOP Java course in AMU.  Now, its time to complete this LL course after learning what I’ve learned in the previous courses.  Later today, I will include the files completed in the Udemy course.  
+
+-----------------------------------------------------------------------------
+
 ## 2021 08 30 || OOP Java Course
 
 Completed Several College Courses. Although I am still learning, it might be time to post some that work. The instructors provide good feedback. However, I think I will learn even more when those within the community review and communicate their own experience in these projects. With that... and with some trepidation (^^), here we go... 
