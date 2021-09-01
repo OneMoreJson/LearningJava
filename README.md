@@ -1,5 +1,25 @@
 # Learning Java
 
+## Admin
+
+### 2021 09 01 1600 || Updating Files
+
+Adding folders and files that I have been working through in the previous sections
+
+-----------------------------------------------------------------------------
+
+## Udemy Section 07
+
+### 2021 08 31 1430 || Beginning
+
+Starting Section 7:  OOP - Composition Encapsulation, and Polymorphism.
+
+## Admin
+
+I have been working on a Udemy Course Called: Java Programming Masterclass covering Java 11 & Java 17 by Tim Buchalka.  A ton of people have gone through his course and He does seem to try and keep it refreshed.  It does have some serious issues.  However, it seems to be the “most recommended” course online.  I really cannot find any other for the price of twenty dollars (on a Udemy sale).  I have completed Sections one through five.  That includes the tedious Code Challenges.  I also worked through section six, but I needed to skip the challenges because I’m trying to get the academic understanding to help with my college courses.  I find the coding challenges often hold you back from learning what you need to understand to grasp the bigger picture.  You will spend a ton of time trying to complete a challenge, only to know that you will never use it when you could just use something else Java provides.  It’s like being told to paint a wall with a toothbrush, when you know there’s a spray gun just a few lessons away!  Why slow the learning progress?  Actually, I really understand these challenges will help solidify educational point.  That is why I earmarked all the challenges to be done when I have limited internet capabilities… and time.  I need more time… 
+
+-----------------------------------------------------------------------------
+
 ## Coursework
 
 ## Admin
