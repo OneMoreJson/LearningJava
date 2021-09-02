@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 02 0400 || US07
+
+Knocking out some challenges from the Udemy Course.  US07 stands of Udemy Section 07.  This challenge isn’t especially challenging.  However, it does reinforce how to check for an empty string: nameOfObject.isEmpty() … provides a boolean response which is used within the if statements.  This is the first time I’ve used it.
+
+-----------------------------------------------------------------------------
+
 ## Admin
 
 ### 2021 09 01 1600 || Updating Files
