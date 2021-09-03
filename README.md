@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 03 || US07 Encapsulation
+
+Continuing with Udemy and the encapsulation discussion.  This is a review on when we would want to use encapsulation or inheritance.  Also spent a ton of time on the challenges.  There were some interesting issues with the way the instructor set up the challenge and how the Udemy code compiler wanted things presented.  Worked through some Q&A forums to figure out just what and why the code did not work.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 02 0400 || US07
 
 Knocking out some challenges from the Udemy Course.  US07 stands of Udemy Section 07.  This challenge isn’t especially challenging.  However, it does reinforce how to check for an empty string: nameOfObject.isEmpty() … provides a boolean response which is used within the if statements.  This is the first time I’ve used it.
