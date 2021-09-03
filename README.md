@@ -4,6 +4,10 @@
 
 Knocking out some challenges from the Udemy Course.  US07 stands of Udemy Section 07.  This challenge isn’t especially challenging.  However, it does reinforce how to check for an empty string: nameOfObject.isEmpty() … provides a boolean response which is used within the if statements.  This is the first time I’ve used it.
 
+#### 0530 || US07 Constructors
+
+Rewatched instruction on constructors.  This time, I wrote the code to get a better “feeling” on how constructors work.  I like to think of them as components working together to create a functioning machine.  The instructor did great at using a computer as an example in which constructors work.  However, the challenge we are to write is a little odd.  We are to create a “house” with the constructors connecting rooms and peaces of the room.  That is far from the typical machine concept.  Still, I’ll give it a try…
+
 -----------------------------------------------------------------------------
 
 ## Admin
