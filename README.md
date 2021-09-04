@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 04 || US07 Master Challenge
+
+I’m completing section seven. Since this section focuses on OOP, we are reviewing things we learned in Sections one through seven… especially inheritance, encapsulation and polymorphism.  For most of the challenges I have been following (really, let’s call it “tracing) the instructor’s work.  Mainly I did this because the challenge instructions sucked pretty bad.  There are quite a few people in the comments that have expressed their frustration.  The Code Challenges are actually better at explaining what they are looking for.  They have to, because the debugging feature is terrible (yes… what debugging feature?).  Still, I am working on this project on my own.  I’m doing this primarily because I want to post something on GH that isn’t a clone of someone else’s work.  Secondly, I think I could have some fun with the Bill’s Burger Master Challenge.  After I’m done, I’ll post my work and the instructors for comparison.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 03 || US07 Encapsulation
 
 Continuing with Udemy and the encapsulation discussion.  This is a review on when we would want to use encapsulation or inheritance.  Also spent a ton of time on the challenges.  There were some interesting issues with the way the instructor set up the challenge and how the Udemy code compiler wanted things presented.  Worked through some Q&A forums to figure out just what and why the code did not work.  
