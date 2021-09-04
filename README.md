@@ -4,13 +4,17 @@
 
 Continuing with Udemy and the encapsulation discussion.  This is a review on when we would want to use encapsulation or inheritance.  Also spent a ton of time on the challenges.  There were some interesting issues with the way the instructor set up the challenge and how the Udemy code compiler wanted things presented.  Worked through some Q&A forums to figure out just what and why the code did not work.  
 
+#### 1400 || US07 Polymorphism 
+
+Polymorphism is the ability to use written code for something outside its original use.  The example created during this lesson was the ability to have a random code select a movie object and provide its plot.  However, if the movie did not have a plot it would inherit from the parent class Movie and provide “no plot here.”  All movies that did have a plot would provide it in their own obj with an override function.  The point of this lesson was to show that you can create generic code that could be “morphed” into use case situations.  
+
 -----------------------------------------------------------------------------
 
 ### 2021 09 02 0400 || US07
 
 Knocking out some challenges from the Udemy Course.  US07 stands of Udemy Section 07.  This challenge isn’t especially challenging.  However, it does reinforce how to check for an empty string: nameOfObject.isEmpty() … provides a boolean response which is used within the if statements.  This is the first time I’ve used it.
 
-#### 0530 || US07 Constructors
+#### 0530 || US07 Encapsulation
 
 Rewatched instruction on constructors.  This time, I wrote the code to get a better “feeling” on how constructors work.  I like to think of them as components working together to create a functioning machine.  The instructor did great at using a computer as an example in which constructors work.  However, the challenge we are to write is a little odd.  We are to create a “house” with the constructors connecting rooms and peaces of the room.  That is far from the typical machine concept.  Still, I’ll give it a try…
 
