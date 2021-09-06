@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 06 || US07 MC
+
+Well… Starting next two courses in college so I am going to need to set aside these Code Challenges and Challenges for a period in which I have time.  However, I will continue burning through the lesson portions of the Udemy course as they really help with what we are doing on the academic side.  So, with that said, today we are going to see what the instructor had in mind when he set out this MC…  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 04 || US07 Master Challenge
 
 I’m completing section seven. Since this section focuses on OOP, we are reviewing things we learned in Sections one through seven… especially inheritance, encapsulation and polymorphism.  For most of the challenges I have been following (really, let’s call it “tracing) the instructor’s work.  Mainly I did this because the challenge instructions sucked pretty bad.  There are quite a few people in the comments that have expressed their frustration.  The Code Challenges are actually better at explaining what they are looking for.  They have to, because the debugging feature is terrible (yes… what debugging feature?).  Still, I am working on this project on my own.  I’m doing this primarily because I want to post something on GH that isn’t a clone of someone else’s work.  Secondly, I think I could have some fun with the Bill’s Burger Master Challenge.  After I’m done, I’ll post my work and the instructors for comparison.  
