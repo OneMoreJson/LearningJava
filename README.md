@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 07 || College Courses
+
+Started two new classes in college.  First class is a continuation on the OOP Java class.  The first is 381 OOP with Java.  The second is a 400 level course on Application Development (AD).  This one looks like it will focus on the PMP side of SDLC.  I completed the reading assignments in both classes.  I also completed the forum assignment for the OOP Java course.  Tomorrow, I focus on the lessons and completing AD forums
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 06 || US07 MC
 
 Well… Starting next two courses in college so I am going to need to set aside these Code Challenges and Challenges for a period in which I have time.  However, I will continue burning through the lesson portions of the Udemy course as they really help with what we are doing on the academic side.  So, with that said, today we are going to see what the instructor had in mind when he set out this MC…  
