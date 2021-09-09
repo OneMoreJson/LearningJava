@@ -1,5 +1,15 @@
 # Learning Java
 
+### 2021 09 08 || College 
+
+Downloading textbooks for courses. Completed the forum for the AD course and reviewed the lessons for both classes.  I am expecting that I might be able to continue with the Udemy course while I work on college assignments.  In truth, Udemy is teaching a lot more than the actual academic programs in college.  The OOP with Java seems to repeat lessons that we did last course (with some variety).  I don’t mean exactly repeating… rather the subject matter is repeated.  That is a bit discouraging.  
+
+#### 1930 || US07 MC Instructor
+
+I’m reviewing the instructor’s explanation on how he completed the MC.  Surprisingly, I was on the right path.  That is until I wanted to add user input to include additions to the basic hamburger.  I think I will continue with that line of thinking and post it in GH as part of my MC completion.  I also noticed he did a series of if statements that served as adding items to the hamburger.  I literally did the same thing.  I even looked to see if the additional item was “null!”  That was kind of cool to see my mind was thinking somewhat properly.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 07 || College Courses
 
 Started two new classes in college.  First class is a continuation on the OOP Java class.  The first is 381 OOP with Java.  The second is a 400 level course on Application Development (AD).  This one looks like it will focus on the PMP side of SDLC.  I completed the reading assignments in both classes.  I also completed the forum assignment for the OOP Java course.  Tomorrow, I focus on the lessons and completing AD forums
