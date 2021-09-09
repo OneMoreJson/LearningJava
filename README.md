@@ -1,5 +1,33 @@
 # Learning Java
 
+### 2021 09 08 || College 
+
+Downloading textbooks for courses. Completed the forum for the AD course and reviewed the lessons for both classes.  I am expecting that I might be able to continue with the Udemy course while I work on college assignments.  In truth, Udemy is teaching a lot more than the actual academic programs in college.  The OOP with Java seems to repeat lessons that we did last course (with some variety).  I don’t mean exactly repeating… rather the subject matter is repeated.  That is a bit discouraging.  
+
+#### 1930 || US07 MC Instructor
+
+I’m reviewing the instructor’s explanation on how he completed the MC.  Surprisingly, I was on the right path.  That is until I wanted to add user input to include additions to the basic hamburger.  I think I will continue with that line of thinking and post it in GH as part of my MC completion.  I also noticed he did a series of if statements that served as adding items to the hamburger.  I literally did the same thing.  I even looked to see if the additional item was “null!”  That was kind of cool to see my mind was thinking somewhat properly.  
+
+-----------------------------------------------------------------------------
+
+### 2021 09 07 || College Courses
+
+Started two new classes in college.  First class is a continuation on the OOP Java class.  The first is 381 OOP with Java.  The second is a 400 level course on Application Development (AD).  This one looks like it will focus on the PMP side of SDLC.  I completed the reading assignments in both classes.  I also completed the forum assignment for the OOP Java course.  Tomorrow, I focus on the lessons and completing AD forums
+
+-----------------------------------------------------------------------------
+
+### 2021 09 06 || US07 MC
+
+Well… Starting next two courses in college so I am going to need to set aside these Code Challenges and Challenges for a period in which I have time.  However, I will continue burning through the lesson portions of the Udemy course as they really help with what we are doing on the academic side.  So, with that said, today we are going to see what the instructor had in mind when he set out this MC…  
+
+-----------------------------------------------------------------------------
+
+### 2021 09 04 || US07 Master Challenge
+
+I’m completing section seven. Since this section focuses on OOP, we are reviewing things we learned in Sections one through seven… especially inheritance, encapsulation and polymorphism.  For most of the challenges I have been following (really, let’s call it “tracing) the instructor’s work.  Mainly I did this because the challenge instructions sucked pretty bad.  There are quite a few people in the comments that have expressed their frustration.  The Code Challenges are actually better at explaining what they are looking for.  They have to, because the debugging feature is terrible (yes… what debugging feature?).  Still, I am working on this project on my own.  I’m doing this primarily because I want to post something on GH that isn’t a clone of someone else’s work.  Secondly, I think I could have some fun with the Bill’s Burger Master Challenge.  After I’m done, I’ll post my work and the instructors for comparison.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 03 || US07 Encapsulation
 
 Continuing with Udemy and the encapsulation discussion.  This is a review on when we would want to use encapsulation or inheritance.  Also spent a ton of time on the challenges.  There were some interesting issues with the way the instructor set up the challenge and how the Udemy code compiler wanted things presented.  Worked through some Q&A forums to figure out just what and why the code did not work.  
