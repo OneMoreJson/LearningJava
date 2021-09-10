@@ -1,5 +1,11 @@
 # Learning Java
 
+## 2021 09 10 || US08 Challenge
+
+Completed.  Also broke down how sorting data within an array works.  I am really pleased with finally getting to understand how this is done.  I will post my work in GH (done).  
+
+-----------------------------------------------------------------------------
+
 ## 2021 09 09 || College
 
 Completed the first assignments for week 01 in both classes.
