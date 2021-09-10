@@ -1,5 +1,15 @@
 # Learning Java
 
+## 2021 09 09 || College
+
+Completed the first assignments for week 01 in both classes.
+
+#### 1500 || US08 Arrays
+
+Relearning arrays.  Working on the first challenge of the section.  I should have some work completed and posted this weekend (since week 01 classwork is completed).  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 08 || College 
 
 Downloading textbooks for courses. Completed the forum for the AD course and reviewed the lessons for both classes.  I am expecting that I might be able to continue with the Udemy course while I work on college assignments.  In truth, Udemy is teaching a lot more than the actual academic programs in college.  The OOP with Java seems to repeat lessons that we did last course (with some variety).  I don’t mean exactly repeating… rather the subject matter is repeated.  That is a bit discouraging.  
