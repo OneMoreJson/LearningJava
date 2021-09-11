@@ -1,12 +1,21 @@
 # Learning Java
 
-## 2021 09 10 || US08 Challenge
+### 2021 09 10 || US08 Challenge
 
 Completed.  Also broke down how sorting data within an array works.  I am really pleased with finally getting to understand how this is done.  I will post my work in GH (done).  
 
+#### 2030 || US08 Ref Types vs Value Types
+
+Really bring home the understanding of references verses values during this course.  Does that mean it is easy to understand?  Hell no!  However, I think I get how ref can ruin code over time.  If you say this var is equal to another var, it will ref the data address at a point, but that will mean they are tied together.  In order to break that link, you need to re-assign the var to a new data address.  That is what we were doing in the shell game earlier.
+
+#### 2100 || US08 Challenge 02
+
+Completed the challenge.  I posted it in GH.  
+
+
 -----------------------------------------------------------------------------
 
-## 2021 09 09 || College
+### 2021 09 09 || College
 
 Completed the first assignments for week 01 in both classes.
 
