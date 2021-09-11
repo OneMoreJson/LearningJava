@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 11 || US08 Challenge 
+
+Completed.  A lot of what was done in reversing the strings or integer digits can be revisited using the array information.  After looking at the instructor’s demonstration I want to remember a few things. First, I always forget that we can now use the built in: Arrays.toString(array) … Second, the instructor breaks the array into half and uses a temp var to hold data from first position until it can be placed in the last position.  This is done, mirroring data from first half to the second half.  Meanwhile, “i” is counting down to the halfway point.  Once there, we are done.  If we didn’t stop at the halfway point, we would end up mirroring the data back to the position it previously started at.  The result would look like nothing happened.  I am providing the instructor’s example with my comments because I thing this should be thoroughly incorporated within the programmer’s mindset.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 10 || US08 Challenge
 
 Completed.  Also broke down how sorting data within an array works.  I am really pleased with finally getting to understand how this is done.  I will post my work in GH (done).  
