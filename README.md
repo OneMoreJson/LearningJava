@@ -1,5 +1,26 @@
 # Learning Java
 
+### 2021 09 12 || Lists cont
+
+The second run through of how lists should have encapsulated methods was really rough.  The instructor rushed through and made things really hard to jump around.  It also didn’t help that he made mistakes along the way, forcing you to follow him in jumping around to fix them.  Now, I think watching an instructor show you where mistakes can happen and how to fix them is very helpful.  However, these didn’t look like they were planned for instructional purpose.  “Oh, I made mistake” is not very encouraging.  He did know how to fix them very quickly… but it still means you’re questioning what part of the instruction was a mistake.  None-the-less, I need to remember the following method in copying one array list to another (without needing to use a “For-loop.”  Here it is:
+
+// One Way…
+
+public static void processArrayList() {
+	ArrayList<String> newArray = new ArrayList<String>();
+	newArray.addAll(groceryList.getGroceryList());
+}
+
+NOTE: this only works if the GroceryList List obj has a get method set inside it!
+
+// Another Way…
+
+public static void processArrayList() {
+  ArrayList<String> nextArray = new ArrayList<String>(grocerList.getGroceryList());
+}
+
+  -----------------------------------------------------------------------------
+
 ### 2021 09 11 || US08 Challenge 
 
 Completed.  A lot of what was done in reversing the strings or integer digits can be revisited using the array information.  After looking at the instructor’s demonstration I want to remember a few things. First, I always forget that we can now use the built in: Arrays.toString(array) … Second, the instructor breaks the array into half and uses a temp var to hold data from first position until it can be placed in the last position.  This is done, mirroring data from first half to the second half.  Meanwhile, “i” is counting down to the halfway point.  Once there, we are done.  If we didn’t stop at the halfway point, we would end up mirroring the data back to the position it previously started at.  The result would look like nothing happened.  I am providing the instructor’s example with my comments because I thing this should be thoroughly incorporated within the programmer’s mindset.  
