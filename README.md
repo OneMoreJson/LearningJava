@@ -18,6 +18,12 @@ NOTE: this only works if the GroceryList List obj has a get method set inside it
 public static void processArrayList() {
   ArrayList<String> nextArray = new ArrayList<String>(grocerList.getGroceryList());
 }
+	
+	#### 1700 || USO8 Challenge 03 Lists
+
+Holy smokes, this has been a long challenge.  Mainly, I have been testing all sorts of stuff.  Frankly, I think I am still relying on what I know more than actually figuring out how the new stuff works.  Slowly getting there.  
+
+None-the-less, this challenge is about creating an array list that keeps contact’s information within a cell phone.  Although it is a rather simplified concept of what would really need to take place, it does give us some ex in building, accessing, and modifying lists.  I completed my version.  However, I will finish the instructor’s version tomorrow and post that as well.  I am pretty sure I’m nowhere near where his version is.  It works though, so I call that a WIN!  
 
   -----------------------------------------------------------------------------
 
