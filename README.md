@@ -1,8 +1,39 @@
 # Learning Java
 
+### 2021 09 12 || Lists cont
+
+The second run through of how lists should have encapsulated methods was really rough.  The instructor rushed through and made things really hard to jump around.  It also didn’t help that he made mistakes along the way, forcing you to follow him in jumping around to fix them.  Now, I think watching an instructor show you where mistakes can happen and how to fix them is very helpful.  However, these didn’t look like they were planned for instructional purpose.  “Oh, I made mistake” is not very encouraging.  He did know how to fix them very quickly… but it still means you’re questioning what part of the instruction was a mistake.  None-the-less, I need to remember the following method in copying one array list to another (without needing to use a “For-loop.”  Here it is:
+
+// One Way…
+
+public static void processArrayList() {
+	ArrayList<String> newArray = new ArrayList<String>();
+	newArray.addAll(groceryList.getGroceryList());
+}
+
+NOTE: this only works if the GroceryList List obj has a get method set inside it!
+
+// Another Way…
+
+public static void processArrayList() {
+  ArrayList<String> nextArray = new ArrayList<String>(grocerList.getGroceryList());
+}
+	
+#### 1700 || USO8 Challenge 04 Lists
+
+Holy smokes, this has been a long challenge.  Mainly, I have been testing all sorts of stuff.  Frankly, I think I am still relying on what I know more than actually figuring out how the new stuff works.  Slowly getting there.  
+
+None-the-less, this challenge is about creating an array list that keeps contact’s information within a cell phone.  Although it is a rather simplified concept of what would really need to take place, it does give us some ex in building, accessing, and modifying lists.  I completed my version.  However, I will finish the instructor’s version tomorrow and post that as well.  I am pretty sure I’m nowhere near where his version is.  It works though, so I call that a WIN!  
+
+  -----------------------------------------------------------------------------
+
 ### 2021 09 11 || US08 Challenge 
 
 Completed.  A lot of what was done in reversing the strings or integer digits can be revisited using the array information.  After looking at the instructor’s demonstration I want to remember a few things. First, I always forget that we can now use the built in: Arrays.toString(array) … Second, the instructor breaks the array into half and uses a temp var to hold data from first position until it can be placed in the last position.  This is done, mirroring data from first half to the second half.  Meanwhile, “i” is counting down to the halfway point.  Once there, we are done.  If we didn’t stop at the halfway point, we would end up mirroring the data back to the position it previously started at.  The result would look like nothing happened.  I am providing the instructor’s example with my comments because I thing this should be thoroughly incorporated within the programmer’s mindset.  
+
+#### 2100  || Lists
+
+First time really diving into the lists of java.  I am surprised as they are pretty powerful.  Arrays lead to understanding how lists should work.  However, from what I gather there are both limitations as well as benefits to using lists instead of an array.  Although, I’m not really seeing it right now.  I also noted that we are getting into a lot more built in methods.  I think you can learn to program, figuring out solutions to problems.  However, it also seems like a ton of strength comes from the built in libraries.  When you know how to use them, the language really opens up.  
 
 -----------------------------------------------------------------------------
 
