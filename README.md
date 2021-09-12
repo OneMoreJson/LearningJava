@@ -19,7 +19,7 @@ public static void processArrayList() {
   ArrayList<String> nextArray = new ArrayList<String>(grocerList.getGroceryList());
 }
 	
-	#### 1700 || USO8 Challenge 03 Lists
+#### 1700 || USO8 Challenge 04 Lists
 
 Holy smokes, this has been a long challenge.  Mainly, I have been testing all sorts of stuff.  Frankly, I think I am still relying on what I know more than actually figuring out how the new stuff works.  Slowly getting there.  
 
