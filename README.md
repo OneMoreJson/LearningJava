@@ -1,5 +1,21 @@
 # Learning Java
 
+### 2021 09 14 || US08 Challenge 04 Instructor
+
+Yeah, his code is broken.  I really do not know why, but when I try to add a user it bypasses the name field and goes directly to the phone.  He has both the phone and name as a string.  This does make sense.  However, scanner.nextLine() doesn’t stop for me to enter the actual name before it asks me to input the number.  In my code, I pushed this task to the Contacts array list which pushed both created the contact object and fixed it to the array.  The phone managed the instructions.  Here the instructor literally has the Main class working the instructions.  I don’t thing that should be the case.  
+   
+   I did learn a few things.  I will need to go back through this lesson’s code to include comments so the thing actually makes sense.  However, I don’t think I want to spend much time on it.  
+   
+   Also, I am going to raise an issue on this code because it doesn’t let the user input the name when trying to add a contact.  If anyone can figure it out, that would be awesome.  
+
+-----------------------------------------------------------------------------
+
+### 2021 09 13 || College
+
+Focused on reading the lessons and the four chapters assigned this week.  Specifically, they were reviews of data types, operators, and arrays.  I also took the time to download the lesson sections from the Udemy course while reading them.  On that note, I still need to review the List Challenge from Udemy to see how the instructor completed it.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 12 || Lists cont
 
 The second run through of how lists should have encapsulated methods was really rough.  The instructor rushed through and made things really hard to jump around.  It also didn’t help that he made mistakes along the way, forcing you to follow him in jumping around to fix them.  Now, I think watching an instructor show you where mistakes can happen and how to fix them is very helpful.  However, these didn’t look like they were planned for instructional purpose.  “Oh, I made mistake” is not very encouraging.  He did know how to fix them very quickly… but it still means you’re questioning what part of the instruction was a mistake.  None-the-less, I need to remember the following method in copying one array list to another (without needing to use a “For-loop.”  Here it is:
