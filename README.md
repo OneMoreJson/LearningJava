@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 13 || College
+
+Focused on reading the lessons and the four chapters assigned this week.  Specifically, they were reviews of data types, operators, and arrays.  I also took the time to download the lesson sections from the Udemy course while reading them.  On that note, I still need to review the List Challenge from Udemy to see how the instructor completed it.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 12 || Lists cont
 
 The second run through of how lists should have encapsulated methods was really rough.  The instructor rushed through and made things really hard to jump around.  It also didn’t help that he made mistakes along the way, forcing you to follow him in jumping around to fix them.  Now, I think watching an instructor show you where mistakes can happen and how to fix them is very helpful.  However, these didn’t look like they were planned for instructional purpose.  “Oh, I made mistake” is not very encouraging.  He did know how to fix them very quickly… but it still means you’re questioning what part of the instruction was a mistake.  None-the-less, I need to remember the following method in copying one array list to another (without needing to use a “For-loop.”  Here it is:
