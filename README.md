@@ -3,7 +3,9 @@
 ### 2021 09 14 || US08 Challenge 04 Instructor
 
 Yeah, his code is broken.  I really do not know why, but when I try to add a user it bypasses the name field and goes directly to the phone.  He has both the phone and name as a string.  This does make sense.  However, scanner.nextLine() doesn’t stop for me to enter the actual name before it asks me to input the number.  In my code, I pushed this task to the Contacts array list which pushed both created the contact object and fixed it to the array.  The phone managed the instructions.  Here the instructor literally has the Main class working the instructions.  I don’t thing that should be the case.  
+   
    I did learn a few things.  I will need to go back through this lesson’s code to include comments so the thing actually makes sense.  However, I don’t think I want to spend much time on it.  
+   
    Also, I am going to raise an issue on this code because it doesn’t let the user input the name when trying to add a contact.  If anyone can figure it out, that would be awesome.  
 
 -----------------------------------------------------------------------------
