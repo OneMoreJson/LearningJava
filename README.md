@@ -1,5 +1,17 @@
 # Learning Java
 
+## LI Advanced Java Programming : LI ADV JP1
+
+### 2021 09 15 || LI ADV JP1
+
+I am not sure if I’m ready for this course.  However, I think I should run through this three hour course to see if I can understand it.  Also, it should prep me to further my understanding in Java.  Finally, it pushes me so much further in thinking as a programmer.  I really need this!  
+
+Things talked about in this course:  1) Generics; 2) VARARGS; 3)Substitution  Principle (List of Substitution Principle); 4) 
+
+AND, that is really complicated……….. 
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 14 || US08 Challenge 04 Instructor
 
 Yeah, his code is broken.  I really do not know why, but when I try to add a user it bypasses the name field and goes directly to the phone.  He has both the phone and name as a string.  This does make sense.  However, scanner.nextLine() doesn’t stop for me to enter the actual name before it asks me to input the number.  In my code, I pushed this task to the Contacts array list which pushed both created the contact object and fixed it to the array.  The phone managed the instructions.  Here the instructor literally has the Main class working the instructions.  I don’t thing that should be the case.  
