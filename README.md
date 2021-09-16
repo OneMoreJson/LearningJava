@@ -1,5 +1,13 @@
 # Learning Java
 
+## LI Secure Coding in Java
+
+### 2021 09 16 || LI SCiJ
+
+This is a subject that the college doesn’t talk about.  I thought I would take an hour course in the LinkedIn Learning courses.  Its divergent to what we are learning, but I would like to use best secure practices when building application.    
+
+-----------------------------------------------------------------------------
+
 ## LI Advanced Java Programming : LI ADV JP1
 
 ### 2021 09 15 || LI ADV JP1
