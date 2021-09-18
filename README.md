@@ -1,5 +1,15 @@
 # Learning Java
 
+### 2021 09 18 || US08 Challenge04 Complete
+
+Went through the instructor’s example.  It was  nice to see that I was nearly correct in the idea of what I was trying to do.  However, there were some definite practices that I should employ with my own work.  I am going to revisit my code and then post it here on GH.  I also want to spend some time in the commenting portion to show how it all really fits together.  Finally, I will probably add a menu portion of the application because that seems to let me run through several test scenarios at once.  
+
+#### 1300 || LinkedLists
+
+Befor I do that, I will be reviewing the LinkedList (LL) portion of the course.  I say review because I had to learn this in my Intro to OOP with Java college course.  I was having a real hard time with this (learning from the textbook) that I decided to skip to this part in the Udemy course.  While this portion helped me understand the Java built in functions of LL, it didn’t cover how to actually create your own LL.  I think I understand it a lot better after working with other textbooks and videos.  Despite this, I might have missed something… thus, I’m reviewing these videos.
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 17 || US08 Challenge 04
 
 Still working on the challenge.  
