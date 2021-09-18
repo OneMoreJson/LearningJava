@@ -6,6 +6,11 @@
 
 This is a subject that the college doesn’t talk about.  I thought I would take an hour course in the LinkedIn Learning courses.  Its divergent to what we are learning, but I would like to use best secure practices when building application.    
 
+#### 1300 || US08
+
+Back to Udemy Section 08.  Learning about Auto boxing. There is a challenge that focuses on auto boxing as a banking application application.  I will give it a go…
+
+
 -----------------------------------------------------------------------------
 
 ## LI Advanced Java Programming : LI ADV JP1
