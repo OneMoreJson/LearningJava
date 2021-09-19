@@ -1,5 +1,52 @@
 # Learning Java
 
+### 2021 09 19 || US08 Challenge04
+
+Spent the entire day updating my work with comments on how everything works.  I uploaded this to GH.  Time to move on to the LL Challenge.   
+
+-----------------------------------------------------------------------------
+
+### 2021 09 18 || US08 Challenge04 Complete
+
+Went through the instructor’s example.  It was  nice to see that I was nearly correct in the idea of what I was trying to do.  However, there were some definite practices that I should employ with my own work.  I am going to revisit my code and then post it here on GH.  I also want to spend some time in the commenting portion to show how it all really fits together.  Finally, I will probably add a menu portion of the application because that seems to let me run through several test scenarios at once.  
+
+#### 1300 || US08 LinkedLists
+
+Befor I do that, I will be reviewing the LinkedList (LL) portion of the course.  I say review because I had to learn this in my Intro to OOP with Java college course.  I was having a real hard time with this (learning from the textbook) that I decided to skip to this part in the Udemy course.  While this portion helped me understand the Java built in functions of LL, it didn’t cover how to actually create your own LL.  I think I understand it a lot better after working with other textbooks and videos.  Despite this, I might have missed something… thus, I’m reviewing these videos.
+
+-----------------------------------------------------------------------------
+
+### 2021 09 17 || US08 Challenge 04
+
+Still working on the challenge.  
+
+-----------------------------------------------------------------------------
+
+## LI Secure Coding in Java
+
+### 2021 09 16 || LI SCiJ
+
+This is a subject that the college doesn’t talk about.  I thought I would take an hour course in the LinkedIn Learning courses.  Its divergent to what we are learning, but I would like to use best secure practices when building application.    
+
+#### 1300 || US08
+
+Back to Udemy Section 08.  Learning about Auto boxing. There is a challenge that focuses on auto boxing as a banking application application.  I will give it a go…
+
+
+-----------------------------------------------------------------------------
+
+## LI Advanced Java Programming : LI ADV JP1
+
+### 2021 09 15 || LI ADV JP1
+
+I am not sure if I’m ready for this course.  However, I think I should run through this three hour course to see if I can understand it.  Also, it should prep me to further my understanding in Java.  Finally, it pushes me so much further in thinking as a programmer.  I really need this!  
+
+Things talked about in this course:  1) Generics; 2) VARARGS; 3)Substitution  Principle (List of Substitution Principle); 4) 
+
+AND, that is really complicated……….. 
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 14 || US08 Challenge 04 Instructor
 
 Yeah, his code is broken.  I really do not know why, but when I try to add a user it bypasses the name field and goes directly to the phone.  He has both the phone and name as a string.  This does make sense.  However, scanner.nextLine() doesn’t stop for me to enter the actual name before it asks me to input the number.  In my code, I pushed this task to the Contacts array list which pushed both created the contact object and fixed it to the array.  The phone managed the instructions.  Here the instructor literally has the Main class working the instructions.  I don’t thing that should be the case.  
