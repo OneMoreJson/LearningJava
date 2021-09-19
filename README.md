@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 19 || US08 Challenge04
+
+Spent the entire day updating my work with comments on how everything works.  I uploaded this to GH.  Time to move on to the LL Challenge.   
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 18 || US08 Challenge04 Complete
 
 Went through the instructor’s example.  It was  nice to see that I was nearly correct in the idea of what I was trying to do.  However, there were some definite practices that I should employ with my own work.  I am going to revisit my code and then post it here on GH.  I also want to spend some time in the commenting portion to show how it all really fits together.  Finally, I will probably add a menu portion of the application because that seems to let me run through several test scenarios at once.  
