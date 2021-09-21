@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 20 || College
+
+Completed week 03 lessons.  This week we completed lessons on classes and objects.   
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 19 || US08 Challenge04
 
 Spent the entire day updating my work with comments on how everything works.  I uploaded this to GH.  Time to move on to the LL Challenge.   
