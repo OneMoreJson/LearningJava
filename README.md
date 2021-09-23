@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 22 || College
+
+More work.  Mainly in the SDLC of things.  The focus has been on estimating the cost and price in SDLC.  I don’t really like the subject.  I wonder what software has been developed to make the process much smoother.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 20 || College
 
 Completed week 03 lessons.  This week we completed lessons on classes and objects.   
