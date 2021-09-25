@@ -1,6 +1,6 @@
 # Learning Java
 
-2021 09 24 || College Week 03
+### 2021 09 24 || College Week 03
 
 Completing the third assignment for this course.  Here are the directions
 
