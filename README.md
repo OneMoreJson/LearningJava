@@ -1,5 +1,11 @@
 # Learning Java
 
+### 20201 09 25 || US09
+
+Completed the weeks assignment for both courses.  Now its time to get back to the Udemy course.  Last week I completed the LL portion.  I’m starting section nine this week.  The subject is “Inner and Abstract Classes & Interfaces.”
+
+----------------------------------------------------------------------------- 
+
 ### 2021 09 24 || College Week 03
 
 Completing the third assignment for this course.  Here are the directions
