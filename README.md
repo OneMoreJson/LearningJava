@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 09 27 || Side 
+
+Installing and learning about Docker.  I place this in the Java learning section because it was something we are suppose to use in a LinkedIn Learning (LL) course that I opened a few weeks ago.  With that mention, I think I need to complete a Learning Docker course in LL.  I found one that is three hours!  Holy smokes, talk about going down a rabbit trail.  Still, these tools are used everywhere.  If they aren’t, then a form of tool is used that just has a different name (but often perform the same function).  For a YT video on the subject, I can review this: https://www.youtube.com/watch?v=YFl2mCHdv24. 
+
+----------------------------------------------------------------------------- 
+
 ### 20201 09 25 || US09
 
 Completed the weeks assignment for both courses.  Now its time to get back to the Udemy course.  Last week I completed the LL portion.  I’m starting section nine this week.  The subject is “Inner and Abstract Classes & Interfaces.”
