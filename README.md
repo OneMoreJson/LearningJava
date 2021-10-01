@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 || US09 Challenge
+
+I do not fully understand the interface part of Java.  However, I want to try my hand at this challenge before I continue with the instructor’s example.  
+
+-----------------------------------------------------------------------------
+
 ## US09 Interfaces
 
 ### 2021 09 30 || US09
