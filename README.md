@@ -2,7 +2,12 @@
 
 ### 2021 10 || US09 Challenge
 
-I do not fully understand the interface part of Java.  However, I want to try my hand at this challenge before I continue with the instructor’s example.  
+I do not fully understand the interface part of Java.  However, I want to try my hand at this challenge before I continue with the instructor’s example.
+
+#### 1000 || Instructor Example
+
+Yeah, that attempt to work through the challenger prior to watching the instructor lasted until I realized I HAD NO CLUE WHAT HE WANTED US TO DO.  Seriously, these challenges are so very vague.  It might be best to continue with the challenge after I watch his example to get the “oh, that is what you wanted us to do…”
+
 
 -----------------------------------------------------------------------------
 
