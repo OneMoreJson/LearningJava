@@ -1,5 +1,17 @@
 # Learning Java
 
+## US09 Interfaces
+
+### 2021 09 30 || US09
+
+We were learning about abstract classes in our college Java course.  I think it will help if I get through this section so I can really understand what the textbook was talking about.  First of all… an interface is a method that a particular class MUST implement.  You use an interface to provide a standard of methods that should be used by similar classes.  
+
+#### 2100 || US08
+
+I found myself returning to the Linked List portion in the course.  I might not have completed that.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 09 27 || Side 
 
 Installing and learning about Docker.  I place this in the Java learning section because it was something we are suppose to use in a LinkedIn Learning (LL) course that I opened a few weeks ago.  With that mention, I think I need to complete a Learning Docker course in LL.  I found one that is three hours!  Holy smokes, talk about going down a rabbit trail.  Still, these tools are used everywhere.  If they aren’t, then a form of tool is used that just has a different name (but often perform the same function).  For a YT video on the subject, I can review this: https://www.youtube.com/watch?v=YFl2mCHdv24. 
