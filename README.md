@@ -1,5 +1,44 @@
 # Learning Java
 
+### 2021 10 02 || College
+
+Completing week 12 assignment.  During this assignment we are asked to “Design and implement a set of classes that define the employees of a hospital: doctor, nurse, administrator, surgeon, receptionist, janitor, and so on. Include methods in each class that are named according to services provided by that person and that print an appropriate message. Create a main driver class to instantiate and exercise several of the classes.”  I plan to do this with a super class called HospitalEmployee.  Then I make classes that inherit from the super.  I think I will base the character names on Clue.
+
+#### 1000 || Week 04 Complete
+
+Completed the assignment.  It is rather random.  I basically used this time as an opportunity to play with some other things I learned through the weeks: logic statements, array lists and other such stuff.  It was fun.  I am posting it on my GH account (within the College Course Week 04 folder).  
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 01 || US09 Challenge
+
+I do not fully understand the interface part of Java.  However, I want to try my hand at this challenge before I continue with the instructor’s example.
+
+#### 1000 || Instructor Example
+
+Yeah, that attempt to work through the challenger prior to watching the instructor lasted until I realized I HAD NO CLUE WHAT HE WANTED US TO DO.  Seriously, these challenges are so very vague.  It might be best to continue with the challenge after I watch his example to get the “oh, that is what you wanted us to do…”
+
+
+-----------------------------------------------------------------------------
+
+## US09 Interfaces
+
+### 2021 09 30 || US09
+
+We were learning about abstract classes in our college Java course.  I think it will help if I get through this section so I can really understand what the textbook was talking about.  First of all… an interface is a method that a particular class MUST implement.  You use an interface to provide a standard of methods that should be used by similar classes.  
+
+#### 2100 || US08
+
+I found myself returning to the Linked List portion in the course.  I might not have completed that.  
+
+----------------------------------------------------------------------------- 
+
+### 2021 09 27 || Side 
+
+Installing and learning about Docker.  I place this in the Java learning section because it was something we are suppose to use in a LinkedIn Learning (LL) course that I opened a few weeks ago.  With that mention, I think I need to complete a Learning Docker course in LL.  I found one that is three hours!  Holy smokes, talk about going down a rabbit trail.  Still, these tools are used everywhere.  If they aren’t, then a form of tool is used that just has a different name (but often perform the same function).  For a YT video on the subject, I can review this: https://www.youtube.com/watch?v=YFl2mCHdv24. 
+
+----------------------------------------------------------------------------- 
+
 ### 20201 09 25 || US09
 
 Completed the weeks assignment for both courses.  Now its time to get back to the Udemy course.  Last week I completed the LL portion.  I’m starting section nine this week.  The subject is “Inner and Abstract Classes & Interfaces.”
