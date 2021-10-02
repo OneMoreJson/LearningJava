@@ -2,7 +2,11 @@
 
 ### 2021 10 02 || College
 
-Completing week 12 assignment.  During this assignment we are asked to “Design and implement a set of classes that define the employees of a hospital: doctor, nurse, administrator, surgeon, receptionist, janitor, and so on. Include methods in each class that are named according to services provided by that person and that print an appropriate message. Create a main driver class to instantiate and exercise several of the classes.”  I plan to do this with a super class called HospitalEmployee.  Then I make classes that inherit from the super.  I think I will base the character names on clue
+Completing week 12 assignment.  During this assignment we are asked to “Design and implement a set of classes that define the employees of a hospital: doctor, nurse, administrator, surgeon, receptionist, janitor, and so on. Include methods in each class that are named according to services provided by that person and that print an appropriate message. Create a main driver class to instantiate and exercise several of the classes.”  I plan to do this with a super class called HospitalEmployee.  Then I make classes that inherit from the super.  I think I will base the character names on Clue.
+
+#### 1000 || Week 04 Complete
+
+Completed the assignment.  It is rather random.  I basically used this time as an opportunity to play with some other things I learned through the weeks: logic statements, array lists and other such stuff.  It was fun.  I am posting it on my GH account (within the College Course Week 04 folder).  
 
 ----------------------------------------------------------------------------- 
 
