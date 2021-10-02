@@ -1,6 +1,12 @@
 # Learning Java
 
-### 2021 10 || US09 Challenge
+### 2021 10 02 || College
+
+Completing week 12 assignment.  During this assignment we are asked to “Design and implement a set of classes that define the employees of a hospital: doctor, nurse, administrator, surgeon, receptionist, janitor, and so on. Include methods in each class that are named according to services provided by that person and that print an appropriate message. Create a main driver class to instantiate and exercise several of the classes.”  I plan to do this with a super class called HospitalEmployee.  Then I make classes that inherit from the super.  I think I will base the character names on clue
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 01 || US09 Challenge
 
 I do not fully understand the interface part of Java.  However, I want to try my hand at this challenge before I continue with the instructor’s example.
 
