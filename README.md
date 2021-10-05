@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 05 || College
+
+Reading Chapter Book 3, Chapter 5 and 8 from Java all-in-one for dummies for our OOP Java course.  I also spent the day looking into taking a Full Stack Coding Boot Camp this January.  MOST of my time was looking into reviews and checking out people on LI who might have gone through the course.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 02 || College
 
 Completing week 12 assignment.  During this assignment we are asked to “Design and implement a set of classes that define the employees of a hospital: doctor, nurse, administrator, surgeon, receptionist, janitor, and so on. Include methods in each class that are named according to services provided by that person and that print an appropriate message. Create a main driver class to instantiate and exercise several of the classes.”  I plan to do this with a super class called HospitalEmployee.  Then I make classes that inherit from the super.  I think I will base the character names on Clue.
