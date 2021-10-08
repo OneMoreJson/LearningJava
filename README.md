@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 07 || College
+
+Completed lessons and the forum.  Here is what we are learning… Abstracts and Interfaces.  I think this stuff is amazing and I’m so thankful to be growing as a Java programer.
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 05 || College
 
 Reading Chapter Book 3, Chapter 5 and 8 from Java all-in-one for dummies for our OOP Java course.  I also spent the day looking into taking a Full Stack Coding Boot Camp this January.  MOST of my time was looking into reviews and checking out people on LI who might have gone through the course.  
