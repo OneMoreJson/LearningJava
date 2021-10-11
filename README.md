@@ -1,5 +1,20 @@
 # Learning Java
 
+### 2021 10 10 || Packages
+
+OMG, I seem to be having a hard time with this in terminal.  Everything is easy in an SDK / IDK.  Everything is auto-magically completed.  In terminal, I need to understand what is going on.  
+
+Here are some notes to remember:
+
+1. In the main file, you need to import the package file through the folder, then the file:  ->  import packagefolder.Class;
+
+Here are some commands that I need to remember:
+
+javac *.java         <— Compile all java files in directory (works with sub dir)
+jar -cfvm Demo.jar Manifest.txt Demo.class         <- jar file w/ mf
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 07 || College
 
 Completed lessons and the forum.  Here is what we are learning… Abstracts and Interfaces.  I think this stuff is amazing and I’m so thankful to be growing as a Java programer.
