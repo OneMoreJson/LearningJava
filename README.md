@@ -1,5 +1,32 @@
 # Learning Java
 
+### 2021 10 10 || Packages
+
+OMG, I seem to be having a hard time with this in terminal.  Everything is easy in an SDK / IDK.  Everything is auto-magically completed.  In terminal, I need to understand what is going on.  
+
+Here are some notes to remember:
+
+1. In the main file, you need to import the package file through the folder, then the file:  ->  import packagefolder.Class;
+
+Here are some commands that I need to remember:
+
+javac *.java         <— Compile all java files in directory (works with sub dir)
+jar -cfvm Demo.jar Manifest.txt Demo.class         <- jar file w/ mf
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 07 || College
+
+Completed lessons and the forum.  Here is what we are learning… Abstracts and Interfaces.  I think this stuff is amazing and I’m so thankful to be growing as a Java programer.
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 05 || College
+
+Reading Chapter Book 3, Chapter 5 and 8 from Java all-in-one for dummies for our OOP Java course.  I also spent the day looking into taking a Full Stack Coding Boot Camp this January.  MOST of my time was looking into reviews and checking out people on LI who might have gone through the course.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 02 || College
 
 Completing week 12 assignment.  During this assignment we are asked to “Design and implement a set of classes that define the employees of a hospital: doctor, nurse, administrator, surgeon, receptionist, janitor, and so on. Include methods in each class that are named according to services provided by that person and that print an appropriate message. Create a main driver class to instantiate and exercise several of the classes.”  I plan to do this with a super class called HospitalEmployee.  Then I make classes that inherit from the super.  I think I will base the character names on Clue.
