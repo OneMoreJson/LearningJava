@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 13 || College
+
+Today, we’re reading about exception handling, the String class and array class.  I find that I have very little time to code when I need to read all this material.  Still, it’s important to have both the experience and knowledge.  This week, the assignment will be to create an application that uses exception handling.  I will post this in GH in the next couple of days.
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 10 || Packages
 
 OMG, I seem to be having a hard time with this in terminal.  Everything is easy in an SDK / IDK.  Everything is auto-magically completed.  In terminal, I need to understand what is going on.  
