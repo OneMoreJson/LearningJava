@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 14 || College
+
+More issues with an assignment from a week ago.  The prof could not get my app working.  I found that it wouldn’t work when I sent the class files with the java.  Even though that has never been a problem.  Next, I spent an hour in discord talking to people an trying to solve problems.  I think this is something I should do every night.  If I can actually learn from other people’s problems, I’ll def grow.
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 13 || College
 
 Today, we’re reading about exception handling, the String class and array class.  I find that I have very little time to code when I need to read all this material.  Still, it’s important to have both the experience and knowledge.  This week, the assignment will be to create an application that uses exception handling.  I will post this in GH in the next couple of days.
