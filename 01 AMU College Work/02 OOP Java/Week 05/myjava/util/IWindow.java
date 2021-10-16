@@ -1,4 +1,5 @@
-package tech.jasoncameron.util;
+package util;
+
 
 public interface IWindow {
 

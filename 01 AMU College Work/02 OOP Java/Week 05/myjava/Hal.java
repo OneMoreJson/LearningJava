@@ -1,7 +1,6 @@
-package tech.jasoncameron;                              //   Importing the package
-import tech.jasoncameron.util.IWindow;                  //   Importing the interface
+import util.IWindow;                  //   Importing the interface
 
-public class Hal implements IWindow {                   //   Heuristically programmed ALgorithmic
+public class Hal implements IWindow{                   //   Heuristically programmed ALgorithmic
 
     // Attributes
     private String windowName;

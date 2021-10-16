@@ -1,9 +1,6 @@
-package tech.jasoncameron.util;
+package util;
 
 public abstract class User {
-
-    // Attributes
-    public String name;
 
     // Abstract Meths
     public abstract void accessWindow(IWindow x);               //   Nothing is defined in these meths... later!

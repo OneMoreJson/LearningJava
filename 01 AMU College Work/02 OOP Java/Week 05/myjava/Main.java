@@ -18,10 +18,6 @@
 
  *******************/
 
-package tech.jasoncameron;                      //  The package is constructed "tech.JasonCameron" after
-                                                // my website
-
-
 public class Main {
 
     public static void main(String[] args) {

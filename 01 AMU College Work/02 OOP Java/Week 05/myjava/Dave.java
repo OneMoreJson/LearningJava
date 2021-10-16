@@ -1,11 +1,10 @@
-package tech.jasoncameron;
 
-import tech.jasoncameron.util.IWindow;
-import tech.jasoncameron.util.User;
+import util.*;
 
 public class Dave extends User {
 
     // No Additional Attributes
+    String name = "";
 
     // Constructor
     public Dave(String name) {
