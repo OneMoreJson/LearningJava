@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 15 || Package Note
+
+Updated week 05 assignment.  Found out that sending the assignment with the class files can cause problems when the recipient tries to recompile the application.  I still don’t understand why that would be the case when I sent five other assignments with the compiled class files.  The only difference in this file is that it included a package.  After deleting the class files and sending them to the prof, I was finally able to ensure the file ran on his end.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 14 || College
 
 More issues with an assignment from a week ago.  The prof could not get my app working.  I found that it wouldn’t work when I sent the class files with the java.  Even though that has never been a problem.  Next, I spent an hour in discord talking to people an trying to solve problems.  I think this is something I should do every night.  If I can actually learn from other people’s problems, I’ll def grow.
