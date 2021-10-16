@@ -1,5 +1,15 @@
 # Learning Java
 
+### 2021 10 16 || Calc App
+
+Building a simple calc app that performs a mathematical operation on two numbers.  The purpose of this project is to implement try, catch, final statements to handle exceptions.  This will be post on GH after I submit it to School.  
+
+#### 3110 || Calc App Completed
+
+As seen in the title, the calc app is completed and submitted to the school.  Some things of note, a simple zero wasn’t able to be entered into the app (via scanner method).  I had to use a double zero or something like that.  I do not understand why this is.  I think this might be a good question to ask in discord.  First, I should probably look it up via google or something.  None-the-less, I am uploading the project to GH now
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 15 || Package Note
 
 Updated week 05 assignment.  Found out that sending the assignment with the class files can cause problems when the recipient tries to recompile the application.  I still don’t understand why that would be the case when I sent five other assignments with the compiled class files.  The only difference in this file is that it included a package.  After deleting the class files and sending them to the prof, I was finally able to ensure the file ran on his end.  
