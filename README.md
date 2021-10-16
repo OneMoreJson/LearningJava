@@ -1,5 +1,23 @@
 # Learning Java
 
+### 2021 10 15 || Package Note
+
+Updated week 05 assignment.  Found out that sending the assignment with the class files can cause problems when the recipient tries to recompile the application.  I still don’t understand why that would be the case when I sent five other assignments with the compiled class files.  The only difference in this file is that it included a package.  After deleting the class files and sending them to the prof, I was finally able to ensure the file ran on his end.  
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 14 || College
+
+More issues with an assignment from a week ago.  The prof could not get my app working.  I found that it wouldn’t work when I sent the class files with the java.  Even though that has never been a problem.  Next, I spent an hour in discord talking to people an trying to solve problems.  I think this is something I should do every night.  If I can actually learn from other people’s problems, I’ll def grow.
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 13 || College
+
+Today, we’re reading about exception handling, the String class and array class.  I find that I have very little time to code when I need to read all this material.  Still, it’s important to have both the experience and knowledge.  This week, the assignment will be to create an application that uses exception handling.  I will post this in GH in the next couple of days.
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 10 || Packages
 
 OMG, I seem to be having a hard time with this in terminal.  Everything is easy in an SDK / IDK.  Everything is auto-magically completed.  In terminal, I need to understand what is going on.  
