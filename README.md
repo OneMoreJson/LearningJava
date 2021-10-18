@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 17 || UD09 Interface
+
+Reviewing videos that were watch a couple of weeks ago.  Then, I’d like to finish this section over the next week.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 16 || Calc App
 
 Building a simple calc app that performs a mathematical operation on two numbers.  The purpose of this project is to implement try, catch, final statements to handle exceptions.  This will be post on GH after I submit it to School.  
