@@ -1,5 +1,13 @@
 # Learning Java
 
+### 2021 10 18 || IO
+
+This week we are learning more about input and output (IO).  There is a lot to read and some projects to play around with.  I will probably upload some of those projects to GH.  
+
+Also, side note, I  will be completing some “pre-work” for a bootcamp.  I will probably upload this work under the “Learning Web Dev” GH repo.  HTML, CSS, and the like will be under this Repo, while the JS and Java will remain under their own repo with the folder “Code Bootcamp.”
+
+-----------------------------------------------------------------------------
+
 ### 2021 10 17 || UD09 Interface
 
 Reviewing videos that were watch a couple of weeks ago.  Then, I’d like to finish this section over the next week.  
