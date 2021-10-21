@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 20 || College
+
+Went over four chapter about “Getting input from the user;” ... “Choosing from a list;” and “Using layout managers.” 
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 18 || IO
 
 This week we are learning more about input and output (IO).  There is a lot to read and some projects to play around with.  I will probably upload some of those projects to GH.  
