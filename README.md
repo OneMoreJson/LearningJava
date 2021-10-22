@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 22 || Week 07
+
+Completed week 07 assignment.  The main focus was to use input/output scanner class to build a application that would take numbers that a user provided and find their average.  I completed it, but I feel like there is a lot more I could do.  After all, the week’s lesson was more about creating UI with swing.  I find it extremely odd that we weren’t asked to build something that took inputs with buttons or something.  That is why I’m going to play with this application and see if I can combine the logic with the swing user interface stuff.  So… as it stands, I’m uploading version one to GH.  If I can come up with a better interface, then I’ll upload version 2 as well.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 20 || College
 
 Went over four chapter about “Getting input from the user;” ... “Choosing from a list;” and “Using layout managers.” 
