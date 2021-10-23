@@ -1,5 +1,31 @@
 # Learning Java
 
+### 2021 10 22 || Week 07
+
+Completed week 07 assignment.  The main focus was to use input/output scanner class to build a application that would take numbers that a user provided and find their average.  I completed it, but I feel like there is a lot more I could do.  After all, the week’s lesson was more about creating UI with swing.  I find it extremely odd that we weren’t asked to build something that took inputs with buttons or something.  That is why I’m going to play with this application and see if I can combine the logic with the swing user interface stuff.  So… as it stands, I’m uploading version one to GH.  If I can come up with a better interface, then I’ll upload version 2 as well.  
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 20 || College
+
+Went over four chapter about “Getting input from the user;” ... “Choosing from a list;” and “Using layout managers.” 
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 18 || IO
+
+This week we are learning more about input and output (IO).  There is a lot to read and some projects to play around with.  I will probably upload some of those projects to GH.  
+
+Also, side note, I  will be completing some “pre-work” for a bootcamp.  I will probably upload this work under the “Learning Web Dev” GH repo.  HTML, CSS, and the like will be under this Repo, while the JS and Java will remain under their own repo with the folder “Code Bootcamp.”
+
+-----------------------------------------------------------------------------
+
+### 2021 10 17 || UD09 Interface
+
+Reviewing videos that were watch a couple of weeks ago.  Then, I’d like to finish this section over the next week.  
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 16 || Calc App
 
 Building a simple calc app that performs a mathematical operation on two numbers.  The purpose of this project is to implement try, catch, final statements to handle exceptions.  This will be post on GH after I submit it to School.  
