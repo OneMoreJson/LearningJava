@@ -1,5 +1,11 @@
 # Learning Java
 
+### 2021 10 29 || Final
+
+Having to put some thought into the development of the final project.  I could make it as simple as possible… of course I have never really done that during this class before.  And, that got me into some trouble.  It really doesn’t matter at this point.  I have one more class before I start my capstone project.  I need as much practice as possible.  I want to crush at programming.  Java is something I think I could really be great at.  So, lets do this!  I’ll post my completed work once I submit it for the final project.  Cheers~
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 23 || Swing
 
 Going back through the book to understand the UI.  This is something I haven’t really grasped.  It isn’t as organized as I think it should be.  I get that you need to build up UI.  First, you need the object.  Second, you need an action listener.  Third, need to add the listener to the object.  However, all these things needed to be connected to everything else.
