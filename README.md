@@ -1,5 +1,22 @@
 # Learning Java
 
+### 2021 10 31 || Mod Calc App
+
+Completed this weeks final project for our second Java course.  I used week six’s assignment as the template and added other components to fulfill the requirements.  This week we needed to provide the option to read and write to a text file.  The assignment’s instructions tripped me up a little because it says you are to R/W to a text file.  However, it further says we are to R/W to a CSV file.  I didn’t know CSV is considered a text file, but according to the web it is.  The difference is that data is separated by commas.  That, of course, is probably the C in CSV.  Still, my GH posts for the week look pretty spars since I’ve been focusing on all this end of course work.  Time to get started on the next: J2EE and Capstone!
+
+----------------------------------------------------------------------------- 
+### 2021 10 29 || Final
+
+Having to put some thought into the development of the final project.  I could make it as simple as possible… of course I have never really done that during this class before.  And, that got me into some trouble.  It really doesn’t matter at this point.  I have one more class before I start my capstone project.  I need as much practice as possible.  I want to crush at programming.  Java is something I think I could really be great at.  So, lets do this!  I’ll post my completed work once I submit it for the final project.  Cheers~
+
+----------------------------------------------------------------------------- 
+
+### 2021 10 23 || Swing
+
+Going back through the book to understand the UI.  This is something I haven’t really grasped.  It isn’t as organized as I think it should be.  I get that you need to build up UI.  First, you need the object.  Second, you need an action listener.  Third, need to add the listener to the object.  However, all these things needed to be connected to everything else.
+
+----------------------------------------------------------------------------- 
+
 ### 2021 10 22 || Week 07
 
 Completed week 07 assignment.  The main focus was to use input/output scanner class to build a application that would take numbers that a user provided and find their average.  I completed it, but I feel like there is a lot more I could do.  After all, the week’s lesson was more about creating UI with swing.  I find it extremely odd that we weren’t asked to build something that took inputs with buttons or something.  That is why I’m going to play with this application and see if I can combine the logic with the swing user interface stuff.  So… as it stands, I’m uploading version one to GH.  If I can come up with a better interface, then I’ll upload version 2 as well.  
