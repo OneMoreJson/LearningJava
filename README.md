@@ -1,5 +1,10 @@
 # Learning Java
 
+### 2021 10 31 || Mod Calc App
+
+Completed this weeks final project for our second Java course.  I used week six’s assignment as the template and added other components to fulfill the requirements.  This week we needed to provide the option to read and write to a text file.  The assignment’s instructions tripped me up a little because it says you are to R/W to a text file.  However, it further says we are to R/W to a CSV file.  I didn’t know CSV is considered a text file, but according to the web it is.  The difference is that data is separated by commas.  That, of course, is probably the C in CSV.  Still, my GH posts for the week look pretty spars since I’ve been focusing on all this end of course work.  Time to get started on the next: J2EE and Capstone!
+
+----------------------------------------------------------------------------- 
 ### 2021 10 29 || Final
 
 Having to put some thought into the development of the final project.  I could make it as simple as possible… of course I have never really done that during this class before.  And, that got me into some trouble.  It really doesn’t matter at this point.  I have one more class before I start my capstone project.  I need as much practice as possible.  I want to crush at programming.  Java is something I think I could really be great at.  So, lets do this!  I’ll post my completed work once I submit it for the final project.  Cheers~
